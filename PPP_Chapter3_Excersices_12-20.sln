@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PPP_Chapter3_Excersices_12-20", "PPP_Chapter3_Excersices_12-20.vcxproj", "{DA1BDB74-5097-4ECB-B80E-88A7B91FA9E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1BDB74-5097-4ECB-B80E-88A7B91FA9E5}.Debug|x64.ActiveCfg = Debug|x64
+		{DA1BDB74-5097-4ECB-B80E-88A7B91FA9E5}.Debug|x64.Build.0 = Debug|x64
+		{DA1BDB74-5097-4ECB-B80E-88A7B91FA9E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA1BDB74-5097-4ECB-B80E-88A7B91FA9E5}.Debug|x86.Build.0 = Debug|Win32
+		{DA1BDB74-5097-4ECB-B80E-88A7B91FA9E5}.Release|x64.ActiveCfg = Release|x64
+		{DA1BDB74-5097-4ECB-B80E-88A7B91FA9E5}.Release|x64.Build.0 = Release|x64
+		{DA1BDB74-5097-4ECB-B80E-88A7B91FA9E5}.Release|x86.ActiveCfg = Release|Win32
+		{DA1BDB74-5097-4ECB-B80E-88A7B91FA9E5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E1BEE89-C9D0-4502-8553-885A9584973E}
+	EndGlobalSection
+EndGlobal
